@@ -35,18 +35,3 @@
 + 商品汇总到Excel
 + 保存功能隐藏，服务后端自动检查和保存
 + 数据保存到数据库
-
-## 参与项目
-+ 克隆项目到本地
-    
-    ``git clone https://github.com/likegrape/chat-room.git``
-    
-   `cd chat-room`
-    
-+ 提交项目到仓库
-
-    `git add .`
-    
-    `git commit -m xxx`
-    
-    `git push origin master`
